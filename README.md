@@ -1,5 +1,5 @@
 # Pitchayapa-martin
-*<h1 align="center">Hi 👋, I'm Pitchayapa Martin</h1>
+<h2 align="center">Hi 👋, I'm Pitchayapa Martin</h2>
 <h3 align="center"> seeking an entry-level Data Analyst role to utilize problem-solving skills and improve business performance through data analysis.</h3>
 
 - 👨‍💻 All of my projects are available at [https://medium.com/@pitchayapa-martin](https://medium.com/@pitchayapa-martin)
