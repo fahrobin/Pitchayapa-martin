@@ -1,25 +1,25 @@
 # Pitchayapa-martin
 <h2 align="center">Hi 👋, I'm Pitchayapa Martin</h2>
-<h3 align="left">About Me :</h3>
+<h4 align="left">About Me :</h4>
 Experienced Data Analyst with a passion for learning and a strong foundation in business and technology.
 
-<h3 align="left">Background: </h3>
+<h4 align="left">Background: </h4>
 Originally from Thailand, I relocated to the United States 6 years ago.
-<h3 align="left">Education: </h3> 
+<h4 align="left">Education: </h4> 
 Bachelor's degree in Information Technology from [University Name] with a minor in Business Management.
-<h3 align="left">Certification </h3> 
+<h4 align="left">Certification </h4> 
 Completed data analytics courses on Coursera by Google.
-<h3 align="left">Skills: </h3> 
+<h4 align="left">Skills: </h4> 
 Proficient in SQL, with a strong foundation in data analysis and business intelligence tools.
-<h3 align="left"> Interests: </h3> 
+<h4 align="left"> Interests: </h4> 
 Eager to learn new technologies and continuously improve my skills. A self-motivated and hardworking individual.
-<h3 align="left"> Career goal: </h3> 
+<h4 align="left"> Career goal: </h4> 
 Seeking an entry-level Data Analyst or Business Intelligence position to leverage my skills and contribute to data-driven decision-making.
 
-<h3 align="left"> Technical Skills: </h3> 
-<h3 align="left"> Programming Languages: </h3> R, PHP, HTML, CSS
-<h3 align="left"> Tools and Technologies: </h3>  SQL, Power BI, Tableau, Excel, Google Sheet
-Databases:  MySQL, PostgreSQL, SQLite
+<h4 align="left"> Technical Skills: </h4> 
+<h4 align="left"> Programming Languages: </h4> R, PHP, HTML, CSS
+<h4 align="left"> Tools and Technologies: </h4>  SQL, Power BI, Tableau, Excel, Google Sheet
+<h4 align="left">Databases:  </h4>   MySQL, PostgreSQL, SQLite
 Projects
 [Project 1 Title]
 Brief description of the project, its goals, and your contributions.
@@ -27,7 +27,7 @@ Link to the project repository on GitHub.
 [Project 2 Title]
 Brief description of the project, its goals, and your contributions.
 Link to the project repository on GitHub.
-<h3 align="left"> Personal Interests: </h3> 
+<h4 align="left"> Personal Interests: </h4> 
 Avid traveler 😁
 Coffee enthusiast ☕
 Enjoy cooking and reading 📚
