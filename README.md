@@ -1,6 +1,6 @@
 # Pitchayapa-martin
 <h2 align="center">Hi 👋, I'm Pitchayapa Martin</h2>
-<h3 align="center">I'm Eager and analytical graduate with proficiency in SQL, Excel, and data visualization tools, seeking an entry-level Data Analyst role to utilize problem-solving skills and improve business performance through data analysis.</h3>
+<h4 align="center">I'm Eager and analytical graduate with proficiency in SQL, Excel, and data visualization tools, seeking an entry-level Data Analyst role to utilize problem-solving skills and improve business performance through data analysis.</h4>
 
 - 🌱 I’m currently learning **Data Analytics/ Business Intelligence Analytics**
 
