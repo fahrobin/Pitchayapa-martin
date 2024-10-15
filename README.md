@@ -14,12 +14,6 @@ Personal Interests
 - 🎯 My goals for 2024: landing my dream job in data. 
 
 Feel free to contact me on GitHub or LinkedIn!</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1qtV98-3l01wGQUUFLobw6jYPgbnLgMZ1/view?usp=drive_link ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=zarina-perez alt=zarina-perez /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=zarina-perez&show_icons=true&include_all_commits=true)](https://github.com/zarina-perez/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarina-perez&layout=compact)](https://github.com/zarina-perez/github-readme-stats)
-
 
 - 👨‍💻 All of my projects are available at [https://medium.com/@pitchayapa-martin](https://medium.com/@pitchayapa-martin)
 
