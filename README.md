@@ -1,24 +1,24 @@
 # Pitchayapa-martin
 <h2 align="center">Hi 👋, I'm Pitchayapa Martin</h2>
-About Me :
+<h3 align="left">About Me :</h3>
 Experienced Data Analyst with a passion for learning and a strong foundation in business and technology.
 
-Background: 
+<h3 align="left">Background: </h3>
 Originally from Thailand, I relocated to the United States 6 years ago.
-Education: 
+<h3 align="left">Education: </h3> 
 Bachelor's degree in Information Technology from [University Name] with a minor in Business Management.
-Certifications: 
+<h3 align="left">Certification </h3> 
 Completed data analytics courses on Coursera by Google.
-Skills: 
+<h3 align="left">Skills: </h3> 
 Proficient in SQL, with a strong foundation in data analysis and business intelligence tools.
-Interests: 
+<h3 align="left"> Interests: </h3> 
 Eager to learn new technologies and continuously improve my skills. A self-motivated and hardworking individual.
-Career Goals
+<h3 align="left"> Career goal: </h3> 
 Seeking an entry-level Data Analyst or Business Intelligence position to leverage my skills and contribute to data-driven decision-making.
 
-Technical Skills
-Programming Languages: R, PHP, HTML, CSS
-Tools and Technologies: SQL, Power BI, Tableau, Excel, Google Sheet
+<h3 align="left"> Technical Skills: </h3> 
+<h3 align="left"> Programming Languages: </h3> R, PHP, HTML, CSS
+<h3 align="left"> Tools and Technologies: </h3>  SQL, Power BI, Tableau, Excel, Google Sheet
 Databases:  MySQL, PostgreSQL, SQLite
 Projects
 [Project 1 Title]
@@ -27,7 +27,7 @@ Link to the project repository on GitHub.
 [Project 2 Title]
 Brief description of the project, its goals, and your contributions.
 Link to the project repository on GitHub.
-Personal Interests
+<h3 align="left"> Personal Interests: </h3> 
 Avid traveler 😁
 Coffee enthusiast ☕
 Enjoy cooking and reading 📚
