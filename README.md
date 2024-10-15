@@ -1,39 +1,25 @@
-# Pitchayapa-martin
-<h2 align="center">Hi 👋, I'm Pitchayapa Martin</h2>
-<h4 align="left">About Me :</h4>
-Experienced Data Analyst with a passion for learning and a strong foundation in business and technology.
+## Hey 👋, This is Pitchayapa Martin
+[![Gmail Badge](https://img.shields.io/badge/-zarina.perez.2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zarina.perez.2000@gmail.com)](mailto:zarina.perez.2000@gmail.com) 
+[![LinkedIn Badge](https://img.shields.io/badge/-zarina--perez-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zarina-perez-9b756b280/)](https://www.linkedin.com/in/zarina-perez-9b756b280/) [![GitHub Badge](https://img.shields.io/badge/-zarina--perez-grey?style=flat&logo=github&logoColor=white&link=https://github.com/zarina-perez/)](https://www.github.com/zarina-perez/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/zarina-perez/TripleTen_projects/)](https://github.com/zarina-perez/TripleTen_projects/) <p align='left'>Hi! I’m Pitchayapa, Experienced Data Analyst with a passion for learning and a strong foundation in business and technology. My skills include business analytics, data visualization and storytelling, R, SQL, and BI Tools. Now,Seeking an entry-level Data Analyst or Business Intelligence position to leverage my skills and contribute to data-driven decision-making.
 
-<h4 align="left">Background: </h4>
-Originally from Thailand, I relocated to the United States 6 years ago.
-<h4 align="left">Education: </h4> 
-Bachelor's degree in Information Technology from [University Name] with a minor in Business Management.
-<h4 align="left">Certification </h4> 
-Completed data analytics courses on Coursera by Google.
-<h4 align="left">Skills: </h4> 
-Proficient in SQL, with a strong foundation in data analysis and business intelligence tools.
-<h4 align="left"> Interests: </h4> 
-Eager to learn new technologies and continuously improve my skills. A self-motivated and hardworking individual.
-<h4 align="left"> Career goal: </h4> 
-Seeking an entry-level Data Analyst or Business Intelligence position to leverage my skills and contribute to data-driven decision-making.
+Projects,
+Data-Driven Marketing Campaign Analysis: Analyzed customer data to optimize marketing campaigns and improve ROI.
+Sales Forecasting Model: Developed a predictive model to forecast sales trends and support business planning.
+Customer Segmentation: Conducted customer segmentation to identify target markets and personalize marketing efforts.
 
-<h4 align="left"> Technical Skills: </h4> 
-<h4 align="left"> Programming Languages: </h4> R, PHP, HTML, CSS
-<h4 align="left"> Tools and Technologies: </h4>  SQL, Power BI, Tableau, Excel, Google Sheet
-<h4 align="left">Databases:  </h4>   MySQL, PostgreSQL, SQLite
-Projects
-[Project 1 Title]
-Brief description of the project, its goals, and your contributions.
-Link to the project repository on GitHub.
-[Project 2 Title]
-Brief description of the project, its goals, and your contributions.
-Link to the project repository on GitHub.
-<h4 align="left"> Personal Interests: </h4> 
-Avid traveler 😁
-Coffee enthusiast ☕
-Enjoy cooking and reading 📚
-Cats lover🐱
+Personal Interests
+- Avid traveler ✈️
+- Coffee enthusiast ☕
+- Enjoy cooking and reading 🧑‍🍳 
+- 🎯 My goals for 2024: landing my dream job in data. 
 
-- 🌱 I’m currently learning **Data Analytics/ Business Intelligence Analytics**
+Feel free to contact me on GitHub or LinkedIn!</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1qtV98-3l01wGQUUFLobw6jYPgbnLgMZ1/view?usp=drive_link ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=zarina-perez alt=zarina-perez /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=zarina-perez&show_icons=true&include_all_commits=true)](https://github.com/zarina-perez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarina-perez&layout=compact)](https://github.com/zarina-perez/github-readme-stats)
+
 
 - 👨‍💻 All of my projects are available at [https://medium.com/@pitchayapa-martin](https://medium.com/@pitchayapa-martin)
 
