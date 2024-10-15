@@ -1,6 +1,32 @@
 # Pitchayapa-martin
 <h2 align="center">Hi 👋, I'm Pitchayapa Martin</h2>
-<h4 align="center">I'm Eager and analytical graduate with proficiency in SQL, Excel, and data visualization tools, seeking an entry-level Data Analyst role to utilize problem-solving skills and improve business performance through data analysis.</h4>
+About Me
+Experienced Data Analyst with a passion for learning and a strong foundation in business and technology.
+
+Background: Originally from Thailand, I relocated to the United States 6 years ago.
+Education: Bachelor's degree in Information Technology from [University Name] with a minor in Business Management.
+Certifications: Completed data analytics courses on Coursera by Google.
+Skills: Proficient in SQL, with a strong foundation in data analysis and business intelligence tools.
+Interests: Eager to learn new technologies and continuously improve my skills. A self-motivated and hardworking individual.
+Career Goals
+Seeking an entry-level Data Analyst or Business Intelligence position to leverage my skills and contribute to data-driven decision-making.
+
+Technical Skills
+Programming Languages: R, PHP, HTML, CSS
+Tools and Technologies: SQL, Power BI, Tableau, Excel, Google Sheet
+Databases:  MySQL, PostgreSQL, SQLite
+Projects
+[Project 1 Title]
+Brief description of the project, its goals, and your contributions.
+Link to the project repository on GitHub.
+[Project 2 Title]
+Brief description of the project, its goals, and your contributions.
+Link to the project repository on GitHub.
+Personal Interests
+Avid traveler 😁
+Coffee enthusiast ☕
+Enjoy cooking and reading 📚
+Cats lover🐱
 
 - 🌱 I’m currently learning **Data Analytics/ Business Intelligence Analytics**
 
