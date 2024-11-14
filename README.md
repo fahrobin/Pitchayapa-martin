@@ -14,7 +14,7 @@ Personal Interests
 
 Feel free to contact me on GitHub or LinkedIn!</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1tpIebuk_E0S5ap78MGTMgh10er7D5DOuiLjbU_Y4HPQ/edit?usp=sharing' ><u>here</u>.</a></p>
 
-- 👨‍💻 All of my projects are available at [https://medium.com/@pitchayapa-martin](https://medium.com/@pitchayapa-martin)
+- 👨‍💻 All of my projects are available at https://pitchayapas-site-0faf9f.webflow.io/ 
 
 - 📫 How to reach me **Pitchayapa.fah@gmail.com**
 
