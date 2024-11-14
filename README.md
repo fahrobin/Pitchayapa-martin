@@ -12,7 +12,7 @@ Personal Interests
 - Enjoy cooking and reading 🧑‍🍳 
 - 🎯 My goals for 2024: landing my dream job in data. 
 
-Feel free to contact me on GitHub or LinkedIn!</p><p align='left'> You can view my resume <a href=https://docs.google.com/document/d/1tpIebuk_E0S5ap78MGTMgh10er7D5DOuiLjbU_Y4HPQ/edit?usp=sharing target=_blank><u>here</u>.</a></p>
+Feel free to contact me on GitHub or LinkedIn!</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1tpIebuk_E0S5ap78MGTMgh10er7D5DOuiLjbU_Y4HPQ/edit?usp=sharing' ><u>here</u>.</a></p>
 
 - 👨‍💻 All of my projects are available at [https://medium.com/@pitchayapa-martin](https://medium.com/@pitchayapa-martin)
 
